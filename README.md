@@ -1,3 +1,4 @@
+Mood Tracking App
 Team 1:
 Aryan Sanoj Raj 
 Nguy Bich Ngoc Tran 
